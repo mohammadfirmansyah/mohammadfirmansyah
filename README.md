@@ -5,7 +5,7 @@
   <!-- Baris 1: Foto Profil dan Judul -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
     <!-- Foto Profil GitHub -->
-    <a href="https://github.com/mohammadfirmansyah/Edvisor">
+    <a href="https://github.com/mohammadfirmansyah">
       <img 
         src="https://github.com/mohammadfirmansyah.png" 
         alt="Firman's GitHub Profile" 
